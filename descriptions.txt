@@ -1,0 +1,47 @@
+
+Statsistcs:
+
+1. Descriptive  : Gives understanding about data like its spread,median etc
+				To get quick data summary
+				describe() function gives a good picture of distribution of data.
+				
+				
+				
+				ANOVA
+				ANOVA stands for Analysis of Variance. It is performed to figure out the relation 
+				between the different group of categorical data.
+				
+				
+				
+				
+2. Inferentials :  Useful in hypothesis testing
+
+
+
+
+
+
+
+
+
+EDA:
+Exploratory data analysis (EDA) is a crucial component of data science which allows 
+you to develop the gist of what your data look like and what kinds of questions might be answered by them.
+
+Exploratory Data Analysis (EDA) is used on the one hand to answer questions, test business assumptions, 
+generate hypotheses for further analysis. On the other hand, you can also use it to prepare the data for modeling.
+
+One of the things that you’ll often see when you’re reading about EDA is Data profiling. Data profiling is 
+concerned with summarizing your dataset through descriptive statistics
+
+
+1. To get better understanding of data
+2. Identifying important features (RF can be used/Domain Knowledge)
+3. Identifying relatuonship between them
+
+
+
+Boxplot:a pictorial representation of distribution of data which 
+				shows extreme values,median and quartiles
+				We can easily figure out outliers by using boxplots
+				
